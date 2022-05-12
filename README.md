@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @rahulnag7963
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Rahul Naguapally and I am currently a computer science student at UBC.
+- 👀 Im intrested in getting into fullstack / frontend / blockchain development. 
+- 🌱 I’ve currently learned reactJS, javascript, java, HTML, CSS and SQL databases. Im intrested in learning more about blockchain development.
+- 📫 You can reach me on discord: Rahul Nagulapally#7466 or email: rahulnag763@gmail.com 
 
-<!---
-rahulnag7963/rahulnag7963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
