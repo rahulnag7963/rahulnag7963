@@ -2,5 +2,5 @@
 - 👀 Im intrested in getting into fullstack / frontend / blockchain development. 
 - 🌱 I’ve currently learned reactJS, javascript, java, HTML, CSS and SQL databases. Im intrested in learning more about blockchain development.
 - 📫 You can reach me on discord: Rahul Nagulapally#7466 or email: rahulnag763@gmail.com 
-- Check out my portfolio hosted on fleek: https://rahulportfoliowebsite.on.fleek.co/ 
+- Check out my updated portfolio on Netlify: rahulnag7963portfolio.netlify.app
 
